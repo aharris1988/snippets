@@ -3,6 +3,12 @@
 # Modified from Brandon Davidson's Cacti script
 # Alex Harris <aharris8@uoregon.edu> 11-20-2014
 
+# Required Packages:
+# perl
+# libcurl
+# perl-WWW-curl
+# +package dependencies
+
 use strict;
 use Sys::Hostname;
 use Getopt::Std;
